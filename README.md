@@ -1,4 +1,4 @@
-# simple-real-time-currency-converter
+# currency-converter
 
 Simple app for real-time converting currency based on library forex-python  
 Asks users and is making calculations 
